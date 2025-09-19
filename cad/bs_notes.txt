@@ -3,4 +3,5 @@ bs_notes
 solidworks
 ----------
 custom mappings
-- toggle rotate view - alt+x
+- toggle rotate view - alt+r
+- trimetric view - alt-t
