@@ -1,0 +1,6 @@
+bs_notes
+----------
+solidworks
+----------
+custom mappings
+- rotate view - alt+x
